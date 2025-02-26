@@ -1,0 +1,179 @@
+{
+  "properties": [
+    {
+      "id": 1,
+      "type": "house",
+      "price": 875000,
+      "bedrooms": 3,
+      "dateAdded": "2024-01-01",
+      "postcode": "SW6 4QP",
+      "title": "Elegant Victorian Haven with Garden",
+      "shortDescription": "Beautifully renovated 3-bed Victorian house with modern luxuries",
+      "longDescription": "Situated on the sought-after Parsons Green Lane, this beautifully renovated Victorian family home offers an exceptional blend of period features and contemporary living. The ground floor welcomes you with a double reception room featuring original cornicing and a stunning bay window, flowing seamlessly into a architect-designed kitchen/dining space with Miele appliances and bi-fold doors opening onto a landscaped garden. The bespoke kitchen includes a central island, wine fridge, and abundant storage. Upstairs, find three well-proportioned bedrooms, including a luxurious master suite with built-in wardrobes and an en-suite bathroom featuring underfloor heating. The family bathroom includes a freestanding bath and walk-in shower. Just 7 minutes' walk to Parsons Green tube station (District Line) and moments from the excellent schools and boutique shops. Parsons Green and the famous White Horse pub are practically on your doorstep.",
+      "mainImage": "/images/house1/ModernHome.jpeg",
+      "images": [
+        "/images/house1/AdobeStock_857836724.jpeg",
+        "/images/house1/AdobeStock_964907989.jpeg",
+        "/images/house1/AdobeStock_313695088.jpeg",
+        "/images/house1/AdobeStock_589335451.jpeg",
+        "/images/house1/AdobeStock_905174099.jpeg",
+        "/images/house1/AdobeStock_75672833.jpeg"
+      ],
+      "floorPlan": "/images/house1/floorhouse1.png",
+      "location": {
+        "lat": 51.4751,
+        "lng": -0.2008
+      }
+    },
+    {
+      "id": 2,
+      "type": "flat",
+      "price": 625000,
+      "bedrooms": 2,
+      "dateAdded": "2024-01-02",
+      "postcode": "E1 6QR",
+      "title": "Urban Sky Residence with City Views",
+      "shortDescription": "Contemporary apartment with stunning city views",
+      "longDescription": "This exceptional modern apartment offers sophisticated city living at its finest. The stunning open-plan living space features floor-to-ceiling windows that flood the room with natural light and provide spectacular urban views. The designer kitchen is equipped with sleek handleless units, quartz worktops, and integrated Miele appliances including a wine cooler. The living area flows seamlessly onto a private winter garden, perfect for year-round enjoyment. Both bedrooms are generously sized doubles, with the master suite featuring a bespoke walk-in wardrobe and luxurious en-suite with rainfall shower and underfloor heating. The second bedroom makes an ideal guest room or home office, served by a stylish family bathroom. The apartment benefits from smart home technology throughout, including programmable lighting and climate control. Residents enjoy exclusive access to a 24-hour concierge, private gym, cinema room, and a spectacular roof terrace offering panoramic views. Perfectly positioned in vibrant area, you're just a 5-minute walk from Shoreditch High Street station and Liverpool Street station, with the trendy boutiques and eateries of Spitalfields Market right on your doorstep.",
+      "mainImage": "/images/flat1/Luxury City Apartment.jpeg",
+      "images": [
+        "/images/flat1/FlatLiving.png",
+        "/images/flat1/Skyview.png",
+        "/images/flat1/DineIn.png",
+        "/images/flat1/FlatBed.jpg",
+        "/images/flat1/FlatBathroom.jpg",
+        "/images/flat1/FlatDesk.jpg"
+      ],
+      "floorPlan": "/images/flat1/flat2floor.jpg",
+      "location": {
+        "lat": 51.5233,
+        "lng": -0.0755
+      }
+    },
+    {
+      "id": 3,
+      "type": "house",
+      "price": 1450000,
+      "bedrooms": 4,
+      "dateAdded": "2024-01-03",
+      "postcode": "N5 1LP",
+      "title": "Historic Georgian Gem with Private Garden",
+      "shortDescription": "Elegant 4-bed Georgian home with period features",
+      "longDescription": "An exceptional Grade II listed Georgian townhouse on one of Islington's premier streets, moments from Highbury Fields. Arranged over four floors, this elegant family home retains a wealth of period features including working fireplaces, original wooden floors, and floor-to-ceiling sash windows. The lower ground floor comprises a stunning kitchen/family room with Tom Howley units and Carrara marble worktops, leading to a south-facing garden designed by Chelsea Flower Show gold medalist. The formal double reception on the raised ground floor features 3.4m ceilings and restored Georgian cornicing. The upper floors offer four double bedrooms, including a master suite with dressing room and marble bathroom, plus a family bathroom and additional shower room. Perfectly located between Upper Street's boutiques and restaurants and the green spaces of Highbury Fields. Highbury & Islington station (Victoria Line/Overground) is just 5 minutes' walk away. Outstanding local schools include Canonbury Primary and St Mary Magdalene Academy.",
+      "mainImage": "/images/house2/Townhouse.jpeg",
+      "images": [
+        "/images/house2/TownLiving.jpg",
+        "/images/house2/TownLiving2.jpg",
+        "/images/house2/TownKitchen.jpg",
+        "/images/house2/TownBed.jpg",
+        "/images/house2/TownBath.jpg",
+        "/images/house2/TownBed2.jpg"
+      ],
+      "floorPlan": "/images/house2/TownPlan.jpg",
+      "location": {
+        "lat": 51.5485,
+        "lng": -0.1030
+      }
+    },
+    {
+      "id": 4,
+      "type": "flat",
+      "price": 450000,
+      "bedrooms": 1,
+      "dateAdded": "2024-01-04",
+      "postcode": "SE1 3GF",
+      "title": "Luxury Sky Studio with Balcony",
+      "shortDescription": "Stylish 1-bed flat with stunning city views",
+      "longDescription": "Perfectly positioned between Borough Market and Bermondsey Street, this contemporary apartment offers the best of SE1 living. Set on the 4th floor of a modern development, the property features floor-to-ceiling windows providing fantastic views towards The Shard. The open-plan living space is ideal for entertaining, with a sleek fitted kitchen featuring integrated Bosch appliances and a breakfast bar. The double bedroom includes built-in wardrobes and direct access to a private balcony - perfect for morning coffee. The bathroom features a walk-in shower and heated towel rail. Residents benefit from a 24/7 concierge, secure bike storage, and a shared roof garden with spectacular London views. You're just 3 minutes' walk from Borough tube station and 7 minutes from London Bridge, while the culinary delights of Borough Market and the independent shops and restaurants of Bermondsey Street are on your doorstep.",
+      "mainImage": "/images/flat2/Studio.jpeg",
+      "images": [
+        "/images/flat2/StudioLiv.jpg",
+        "/images/flat2/StudioLiv2.jpg",
+        "/images/flat2/StudioKitchen.jpg",
+        "/images/flat2/StudioBed.jpg",
+        "/images/flat2/StudioBath1.jpg",
+        "/images/flat2/StudioBath2.jpg"
+      ],
+      "floorPlan": "/images/flat2/StudioFloor.jpg",
+      "location": {
+        "lat": 51.5014,
+        "lng": -0.0918
+      }
+    },
+    {
+      "id": 5,
+      "type": "house",
+      "price": 2250000,
+      "bedrooms": 5,
+      "dateAdded": "2024-01-05",
+      "postcode": "W11 2BQ",
+      "title": "Prestigious Victorian Mansion with Garden",
+      "shortDescription": "Stunning 5-bed period house with luxury features",
+      "longDescription": "A rare opportunity to acquire this exceptional family home on one of Notting Hill's most coveted streets, moments from Westbourne Grove. This impressive Victorian property has been meticulously renovated throughout, seamlessly blending period grandeur with contemporary luxury. The dramatic double reception room features restored original fireplaces and bespoke joinery, while the spectacular kitchen/dining room spans the entire lower ground floor, with Bulthaup units, Sub-Zero appliances, and Crittall doors opening onto a beautifully landscaped garden. The principal bedroom suite occupies the entire first floor, with a vast dressing room and marble-clad bathroom. Four further bedrooms and three bathrooms are arranged over the upper floors, plus a media room and home office. The wine cellar and utility room provide excellent storage. Ideally located for the boutiques and restaurants of Westbourne Grove and Portobello Road, with Notting Hill Gate tube station (Central/Circle/District lines) just 8 minutes' walk away. Outstanding schools nearby include Wetherby Prep and Notting Hill Prep.",
+      "mainImage": "/images/house3/Poolhouse.jpeg",
+      "images": [
+        "/images/house3/MansLiv.jpg",
+        "/images/house3/MansLiv2.jpg",
+        "/images/house3/MansBed.jpg",
+        "/images/house3/MansLiv3.jpg",
+        "/images/house3/MansBath.jpg",
+        "/images/house3/MansBath2.jpg"
+      ],
+      "floorPlan": "/images/house3/MansFloor.jpg",
+      "location": {
+        "lat": 51.5153,
+        "lng": -0.1946
+      }
+    },
+    {
+      "id": 6,
+      "type": "flat",
+      "price": 1250000,
+      "bedrooms": 3,
+      "dateAdded": "2024-01-06",
+      "postcode": "SW1W 8NA",
+      "title": "Premium Penthouse with Panoramic Views",
+      "shortDescription": "Elegant 3-bed apartment in prestigious location",
+      "longDescription": "An immaculately presented apartment within a white stucco-fronted building in the heart of Belgravia. Recently refurbished to exacting standards, this lateral apartment spans approximately 1,500 sq ft and enjoys high ceilings throughout. The sophisticated reception room features herringbone oak floors, marble fireplace, and three floor-to-ceiling windows overlooking Eaton Place. The bespoke SieMatic kitchen includes Gaggenau appliances and a breakfast area. The principal bedroom suite offers extensive fitted wardrobes and a luxurious en-suite bathroom with book-matched marble and underfloor heating. Two further bedrooms share a family bathroom, while a separate utility room provides practical storage. Residents of this prestigious building benefit from a uniformed porter and secure underground parking. Situated in prime Belgravia, you're moments from the boutiques of Elizabeth Street and Sloane Square, with Knightsbridge and Hyde Park close by. Sloane Square tube station (District/Circle lines) is just 7 minutes' walk away.",
+      "mainImage": "/images/flat3/Penthouse.png",
+      "images": [
+        "/images/flat3/PenthBed.png",
+        "/images/flat3/PenthOffice.png",
+        "/images/flat3/PenthBath.png",
+        "/images/flat3/PenthBath2.png",
+        "/images/flat3/PenthOffice2.png",
+        "/images/flat3/PenthMirror.png"
+      ],
+      "floorPlan": "/images/flat3/PentFloor.jpg",
+      "location": {
+        "lat": 51.4977,
+        "lng": -0.1534
+      }
+    },
+    {
+      "id": 7,
+      "type": "house",
+      "price": 1295000,
+      "bedrooms": 4,
+      "dateAdded": "2024-01-07",
+      "postcode": "NW3 5LN",
+      "title": "Luxurious 4-Bed Bungalow with Garden",
+      "shortDescription": "Spacious 4-bed detached bungalow with modern luxuries",
+      "longDescription": "Set within a prestigious residential area, this expansive detached bungalow offers exceptional single-level living across approximately 2,500 sq ft. The property has been meticulously renovated to create a perfect blend of period charm and contemporary luxury. The heart of the home is a stunning open-plan kitchen/family room featuring bespoke units, premium appliances, and bi-fold doors that seamlessly connect to the landscaped garden. The formal reception room boasts high ceilings and a feature fireplace, while a separate dining room provides an elegant space for entertaining. The master suite is truly impressive with a walk-through dressing area and luxury en-suite bathroom. Three additional double bedrooms share two beautifully appointed bathrooms, with one bedroom currently used as a home office. The property also features a utility room and abundant storage throughout. Outside, the wrap-around garden has been professionally landscaped with multiple seating areas, mature planting, and a covered entertainment space. A sweeping driveway provides parking for multiple vehicles, plus there's a double garage with potential for conversion. Perfect for families seeking luxurious single-level living with no compromise on space or style. Share of freehold included.",
+      "mainImage": "/images/house4/Bunglow.jpg",
+      "images": [
+        "/images/house4/BungLiv.jpg",
+        "/images/house4/BungDine.jpg",
+        "/images/house4/BungBed.jpg",
+        "/images/house4/BungBath.jpg",
+        "/images/house4/BungLiv3.jpg",
+        "/images/house4/BungLib.jpg"
+      ],
+      "floorPlan": "/images/house4/BungFloor.jpg",
+      "location": {
+        "lat": 51.5567,
+        "lng": -0.1789
+      }
+    }
+  ]
+}
