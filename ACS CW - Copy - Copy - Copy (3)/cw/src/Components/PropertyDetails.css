@@ -1,0 +1,138 @@
+.property-details {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.property-header {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  margin: 20px 0;
+}
+
+.property-header h1 {
+  margin: 0;
+  color: #333;
+}
+
+.property-gallery {
+  position: relative;
+  margin-bottom: 30px;
+  border-radius: 8px;
+  overflow: hidden;
+}
+
+.gallery-image {
+  width: 100%;
+  height: 500px;
+  object-fit: cover;
+}
+
+.gallery-controls {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px;
+  background: rgba(255, 255, 255, 0.9);
+}
+
+.gallery-controls button {
+  background-color: var(--primary-color);
+  color: white;
+  padding: 8px 16px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.property-info {
+  background: white;
+  padding: 20px;
+  border-radius: 8px;
+  margin-bottom: 30px;
+}
+
+.property-info h2 {
+  color: var(--primary-color);
+  margin-bottom: 15px;
+}
+
+.property-info p {
+  line-height: 1.6;
+  margin-bottom: 15px;
+}
+
+.favorite-button {
+  background: white;
+  color: var(--primary-color);
+  border-radius: 50%;
+  width: 40px;
+  height: 40px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 24px;
+  cursor: pointer;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.favorite-button.active {
+  background-color: var(--primary-color);
+  color: white;
+}
+
+/* React Tabs Customization */
+.react-tabs {
+  background: white;
+  border-radius: 8px;
+  overflow: hidden;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.react-tabs__tab-list {
+  border-bottom: 1px solid var(--border-color);
+  margin: 0;
+  padding: 0;
+}
+
+.react-tabs__tab {
+  display: inline-block;
+  border: none;
+  bottom: -1px;
+  position: relative;
+  list-style: none;
+  padding: 12px 20px;
+  cursor: pointer;
+  color: var(--text-color);
+}
+
+.react-tabs__tab--selected {
+  background: white;
+  color: var(--primary-color);
+  border-bottom: 2px solid var(--primary-color);
+}
+
+.react-tabs__tab-panel {
+  padding: 20px;
+}
+
+.react-tabs__tab-panel--selected {
+  display: block;
+}
+
+.back-button {
+  background-color: #13836c !important;
+  margin: 20px 0 !important;
+}
+
+.back-button:hover {
+  background-color: #0f6a56 !important;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+  .gallery-image {
+    height: 300px;
+  }
+}
